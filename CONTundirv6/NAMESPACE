@@ -1,0 +1,3 @@
+useDynLib(CONTundirv6)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
